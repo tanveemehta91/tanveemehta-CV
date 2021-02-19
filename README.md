@@ -6,10 +6,10 @@
 [Email](mailto:tanveemehta91@gmail.com) / [LinkedIn](https://www.linkedin.com/in/tanvee-mehta-910704/) / [GitHub](https://github.com/whodis943/) / [Twitter](https://twitter.com/tanveem/) <br>
 
 ## 💻 Professional Experience 
-**Structurer, APAC** - Innovative Risk Solutions @ [Swiss Re Corporate Solutions](corporatesolutions.swissre.com) Singapore _(Feb 2021 - Present)_
+**Structurer, APAC** - Innovative Risk Solutions @ [Swiss Re Corporate Solutions](https://www.corporatesolutions.swissre.com) Singapore _(Feb 2021 - Present)_
 <br><br>
 
-**Key Account Officer** - Institutional Clients Group @ [Swiss Re](www.swissre.com) Hong Kong _(Apr 2016 - Apr 2020)_ <br>
+**Key Account Officer** - Institutional Clients Group @ [Swiss Re](https://www.swissre.com) Hong Kong _(Apr 2016 - Apr 2020)_ <br>
 Responsible for securing new business from 5+ large institutional clients across Asia with key account managers
 - Managing key strategic projects delivery across Life & Health insurance value chain with major clients including D2C propositions, automated underwriting system (SaaS) aimed at increased straight through processing at Point of Sale, holistic product development with value added services and contract negotiations 
 - Led the development & implementation of team strategy aimed at increasing business 300% in 5 years
@@ -17,12 +17,12 @@ Responsible for securing new business from 5+ large institutional clients across
 - Collaborating with Cross functional teams across 10+ markets in Asia Pacific to deliver value added solutions (beyond traditional reinsurance) to clients aimed at differentiated new proposition & optimising existing business
 <br>
 
-**Secondment**, Life & Health Structured Solutions @ [Swiss Re](www.swissre.com) Hong Kong _(Feb 2019 - Apr 2019)_ <br>
+**Secondment**, Life & Health Structured Solutions @ [Swiss Re](https://www.swissre.com) Hong Kong _(Feb 2019 - Apr 2019)_ <br>
 - Led structuring of bespoke reinsurance transactions with clients aimed at optimising capital usage for insurers involving in depth analysis of products and analysis of regulatory frameworks for such reinsurance transactions
 - Managed transaction across various teams including treasury, risk management and asset management for origination, structuring and implementation of financial transactions across Asia (focused on India & China)
 <br><br>
 
-**Market/Valuation Risk Analyst**, Financial Risk Management @ [Swiss Re](www.swissre.com) Bangalore _(Jul 2014 – Mar 2016)_<br>
+**Market/Valuation Risk Analyst**, Financial Risk Management @ [Swiss Re](https://www.swissre.com) Bangalore _(Jul 2014 – Mar 2016)_<br>
 _Part of Asset management function with responsibilities in monitoring market & valuation risk in portfolio_
 - Performed IR scenario analysis monitoring limits & triggers; provided oversight of credit risk (NAV of USD 35 mn+)
 - Developed alternate valuation models for illiquid Infrastructure Projects with a market value of USD 420 mn+ 
@@ -36,8 +36,8 @@ _One of 2 graduates to secure an international role immediately after program_ <
 <br><br>
 
 ## 🎓 Education & Certifications
-**Chemical Engineering (B.Tech. & M. Tech.)** @ [Indian Institute of Technology, Bombay](www.iitb.ac.in), India  _(2009 - 2014)_<br>
-_Secured position in top 0.4% students amid 0.25 million in one of the toughest exam in world, [JEE Advanced](www.en.wikipedia.org/wiki/Joint_Entrance_Examination_%E2%80%93_Advanced)_<br>
+**Chemical Engineering (B.Tech. & M. Tech.)** @ [Indian Institute of Technology, Bombay](https://www.iitb.ac.in), India  _(2009 - 2014)_<br>
+_Secured position in top 0.4% students amid 0.25 million in one of the toughest exam in world, [JEE Advanced](https://www.en.wikipedia.org/wiki/Joint_Entrance_Examination_%E2%80%93_Advanced)_<br>
 Cumulative Performance Index: 	(7.24/10)<br>
 **Master's thesis**: MATLAB simulation of ballistic particle aggregation 
 **Relevant Courses**: Convex Optimisation, Multivariate Statistics, Support Vector Machines, Machine Learning <br>
@@ -50,7 +50,7 @@ C/C++, MATLAB, Java (basic), VBA, Python (TensorFlow, Keras), PHP, SQL, PowerBI 
 Courses include: Regular Neural Networks, Hyperparameter tuning, Structuring Machine Learning Projects, Convolutional Neural Networks & Recurrent Neural Networks/Sequence Models <br>
 	
 **Other data analytics courses (Kaggle)**: Intro to SQL, Data Visualization	_(2020)_ <br>
-**Social Media Marketing (Hubspot)**: [Certificate](www.hubspot-academy.s3.amazonaws.com/prod/tracks/user-certificates/528a7a1af9ea447bbad458348113143b-1597229666582.png) 	_(2020)_ <br>
+**Social Media Marketing (Hubspot)**: [Certificate](https://www.hubspot-academy.s3.amazonaws.com/prod/tracks/user-certificates/528a7a1af9ea447bbad458348113143b-1597229666582.png) 	_(2020)_ <br>
 **Google Analytics Individual Qualification (GAIQ)** [certified](https://skillshop.exceedlms.com/student/award/53606964) _(2020)_ <br>
 **CFA (Chartered Financial Analyst) Level 1** qualified	_(2013)_ <br>
 Recipient of **National Talent Search Scholarship** (NTSE) awarded to 1k meritorious students in India 	_(2007)_ <br>
