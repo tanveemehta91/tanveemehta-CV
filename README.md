@@ -1,6 +1,6 @@
 # Tanvee Mehta
 * Deep knowledge of insurance industry with a penchant for all things AI/ML & data science <br>
-* 6+ years of experience across APAC with a zeal for working with cross functional diverse teams <br> 
+* 7+ years of experience across APAC with a zeal for working with cross functional diverse teams <br> 
 * Passionate about advancement of women and gender equity in workplace <br>
 
 [Email](mailto:tanveemehta91@gmail.com) / [LinkedIn](https://www.linkedin.com/in/tanvee-mehta-910704/) / [GitHub](https://github.com/whodis943/) / [Twitter](https://twitter.com/tanveem/) <br>
